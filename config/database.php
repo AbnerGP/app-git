@@ -31,6 +31,7 @@ return [
     |
     */
 
+    //Database connection for test.
     'connections' => [
 
         'sqlite' => [
